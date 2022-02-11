@@ -1,7 +1,7 @@
 body{
 	text-align:center;
 	background-image:url("nn.jpg");
-	
+	background-repeat:no-repeat;
 	background-size: 100%;
 }
 button{
